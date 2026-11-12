@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
     private ProgressBar progressBar;
     private SwipeRefreshLayout swipeRefreshLayout;
     
-    private final String SITE_URL = "https://payment.st-shop.xyz"; 
+    private final String SITE_URL = "https://alvi.loyalearningsbd.site/user/login"; 
 
     @SuppressLint("SetJavaScriptEnabled")
     @Override
